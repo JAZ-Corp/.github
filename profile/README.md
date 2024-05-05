@@ -1,5 +1,5 @@
 # This Organization Officially belongs to the JAZ CORP. 
-## The esteemed members of the I Got Supplies Club are the functionaries of this organization.  
+### The esteemed members of the I Got Supplies Club are the functionaries of this organization.  
 
 <!--
 
